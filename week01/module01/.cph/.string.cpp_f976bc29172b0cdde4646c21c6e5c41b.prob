@@ -1,0 +1,1 @@
+{"name":"Local: string","url":"/home/adnan/phitron/semester01/introductionToC++ForDSA/week01/module01/string.cpp","tests":[{"id":1779242896898,"input":"15\nadnan","output":"15\nadnan"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/adnan/phitron/semester01/introductionToC++ForDSA/week01/module01/string.cpp","group":"local","local":true}
