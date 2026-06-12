@@ -1,0 +1,15 @@
+---
+BasedOnStyle: LLVM
+PointerAlignment: Left
+AccessModifierOffset: 0
+BreakBeforeBraces: Attach
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+ColumnLimit: 0
+AllowShortIfStatementsOnASingleLine: AllIfsAndElse
+
+# Preserves your clean spacing and carriage returns
+MaxEmptyLinesToKeep: 4
+KeepEmptyLinesAtTheStartOfBlocks: true
+---
